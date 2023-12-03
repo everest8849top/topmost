@@ -1,0 +1,9 @@
+openai==0.28
+pandas
+numpy
+tiktoken
+python-dotenv
+tenacity
+streamlit
+langchain
+psycopg2-binary

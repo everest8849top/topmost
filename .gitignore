@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# flagged
+flagged/
+
+.streamlit/secrets.toml

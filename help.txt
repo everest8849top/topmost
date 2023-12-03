@@ -1,0 +1,21 @@
+--------------mention---------------------
+
+Change .env file.
+
+Here, the openai-api-key.
+output_file1.csv file represents part of database
+
+----------------explain---------
+
+install python
+
+python -m venv venv
+
+You can read document of virtual environment on python platform.
+And then, it's easy.
+
+postgres://avnadmin:AVNS_9tKT3e1svgblFjhoMWF@pg-2664ea41-my2ducks-e3cb.aivencloud.com:28291/defaultdb?sslmode=require
+
+psql "postgres://avnadmin:AVNS_9tKT3e1svgblFjhoMWF@pg-2664ea41-my2ducks-e3cb.aivencloud.com:28291/defaultdb?sslmode=require&sslrootcert=/ca.crt"
+
+postgres://magician:strongpwd111@localhost:5432/langm
